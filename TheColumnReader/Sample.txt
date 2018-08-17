@@ -1,0 +1,51 @@
+<div id="Express_Menu1_columns" class="dropmenudiv">
+
+<a href=# onClick="NewWindow('/epaper/PoPupwindow.aspx?newsID=1101094268&Issue=NP_LHE&Date=20101108','story','750','1826','0','center')" id="MMMenu0401094636_0_Item_00" class="MMMIFVStyleMMMenu0401094636_0" onmouseover="MM_swapImage('Image20','','../images/Hamid_Akhtar.gif',1)" onmouseout="MM_swapImgRestore()">
+	<img   src="../images/Hamid_Akhtar.gif" name="Image20 "  width="178" height="27" border="0" id="Image20"/>
+</a>
+
+<a href=# onClick="NewWindow('/epaper/PoPupwindow.aspx?newsID=1101094274&Issue=NP_LHE&Date=20101108','story','750','2478','0','center')" id="MMMenu0401094636_0_Item_01" class="MMMIFVStyleMMMenu0401094636_0" onmouseover="MM_swapImage('Image21','','../images/Tahir_Sarwar_Mir.gif',1)" onmouseout="MM_swapImgRestore()">
+	<img   src="../images/Tahir_Sarwar_Mir.gif" name="Image21 "  width="178" height="27" border="0" id="Image21"/>
+</a>
+
+<a href=# 
+onClick="NewWindow('/epaper/PoPupwindow.aspx?newsID=1101094273&Issue=NP_LHE&Date=20101108','story','750','2901','0','center')" 
+id="MMMenu0401094636_0_Item_02" 
+class="MMMIFVStyleMMMenu0401094636_0" 
+onmouseover="MM_swapImage('Image22','','../images/Aamir_Hashim_Khakwani.gif',1)" 
+onmouseout="MM_swapImgRestore()">
+	
+	<img   
+	src="../images/Aamir_Hashim_Khakwani.gif" 
+	name="Image22 "  
+	width="178" 
+	height="27" 
+	border="0" 
+	id="Image22"/>
+</a>
+
+<a href=# onClick="NewWindow('/epaper/PoPupwindow.aspx?newsID=1101094271&Issue=NP_LHE&Date=20101108','story','750','2451','0','center')" id="MMMenu0401094636_0_Item_03" class="MMMIFVStyleMMMenu0401094636_0" onmouseover="MM_swapImage('Image23','','../images/Tanveer_Qaisar_Shahid.gif',1)" onmouseout="MM_swapImgRestore()">
+	<img   src="../images/Tanveer_Qaisar_Shahid.gif" name="Image23 "  width="178" height="27" border="0" id="Image23"/>
+</a>
+
+<a href=# onClick="NewWindow('/epaper/PoPupwindow.aspx?newsID=1101094269&Issue=NP_LHE&Date=20101108','story','750','2278','0','center')" id="MMMenu0401094636_0_Item_04" class="MMMIFVStyleMMMenu0401094636_0" onmouseover="MM_swapImage('Image24','','../images/Cowes_Jee.gif',1)" onmouseout="MM_swapImgRestore()">
+	<img   src="../images/Cowes_Jee.gif" name="Image24 "  width="178" height="27" border="0" id="Image24"/>
+</a>
+
+<a href=# onClick="NewWindow('/epaper/PoPupwindow.aspx?newsID=1101094270&Issue=NP_LHE&Date=20101108','story','750','2305','0','center')" id="MMMenu0401094636_0_Item_05" class="MMMIFVStyleMMMenu0401094636_0" onmouseover="MM_swapImage('Image25','','../images/Zamurad_Naqvi.gif',1)" onmouseout="MM_swapImgRestore()">
+	<img   src="../images/Zamurad_Naqvi.gif" name="Image25 "  width="178" height="27" border="0" id="Image25"/>
+</a>
+
+</div>
+
+
+
+--------------------
+http://express.com.pk/epaper/index.aspx?Date=20101108
+http://express.com.pk/epaper/PoPupwindow.aspx?newsID=2136&Issue=NP_LHE&Date=20060801
+http://express.com.pk/epaper/PoPupwindow.aspx?newsID=1101094268&Issue=NP_LHE&Date=20101108
+http://express.com.pk/images/NP_LHE/20101108/Sub_Images/1101094268-1.jpg
+http://express.com.pk/images/NP_LHE/20101108/Sub_Images/1101094268-2.gif
+http://express.com.pk/images/NP_LHE/20060801/Sub_Images/2240-2.gif
+
+http://www.jang.net/archive/jang_arch.asp?arc_date=12%2F29%2F2008&submit=Go!
